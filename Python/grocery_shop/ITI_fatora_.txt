@@ -1,0 +1,8 @@
+	ITI FATORA
+*********************************
+Product	Quantity	Price
+Apple	1	20 LE
+Banana	1	30 LE
+Cherry	1	40 LE
+*********************************
+Total Price:	90.0 LE

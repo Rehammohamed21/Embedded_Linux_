@@ -1,0 +1,6 @@
+	FATORA
+*********************************
+Size	Quantity	Price
+Large	3	30 LE
+*********************************
+Total Price:	30 LE
