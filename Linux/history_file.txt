@@ -1,0 +1,600 @@
+    1  ls
+    2  ./autorun.sh
+    3  sudo apt update
+    4  sudo apt install -y build-essential linux-headers-$(uname -r)
+    5  ls
+    6  tar -xvzf eclipse-inst-jre-linux64.tar.gz
+    7  clear
+    8  cd eclipse-installer/
+    9  ls
+   10  ./eclipse-inst 
+   11  java --version
+   12  sudo apt install default-jre
+   13  sudo apt install openjdk-18-jre-headless
+   14  sudo apt install openjdk-19-jre-headless
+   15  java --version
+   16  cd Downloaads/
+   17  cd downloads/
+   18  cd /
+   19  cd Downloads/
+   20  cd ..
+   21  cd home
+   22  cd Downloads/
+   23  cd Downloads
+   24  sudo apt update
+   25  sudo apt install build-essential
+   26  gcc --version
+   27  sudo apt-get install build-essential
+   28  cd /bin
+   29  ls
+   30  cd ..
+   31  cd /etc
+   32  ls
+   33  cd ..
+   34  cd /sbin
+   35  ls
+   36  if config
+   37  cd if config
+   38  cd if-config
+   39  cd ..
+   40  cd /usr
+   41  cd /include
+   42  cd ..
+   43  cd /usr/include
+   44  ls
+   45  gedit stdio.h
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd ..
+   52  ls
+   53  eclipse
+   54  ./eclipse
+   55  clear
+   56  cd ~
+   57  sudo apt update
+   58  sudo -h
+   59  sudo -host=host
+   60  sudo -h reham
+   61  clear
+   62  cd home/
+   63  cd home
+   64  cd /
+   65  cd home
+   66  cd Downloads
+   67  pwd
+   68  mkdir rery
+   69  mkdir music
+   70  mkdir -m music
+   71  mkdir --help
+   72  sudo su
+   73  su
+   74  sudo su
+   75  mkdir -p a1/a2
+   76  ls
+   77  mkdir -p reham
+   78  ls
+   79  mkdir all
+   80  ls
+   81  cd a1/
+   82  cd a2/
+   83  pwd
+   84  pwd -L
+   85  pwd -P
+   86  pwd -l
+   87  pwd -LP
+   88  cd ..
+   89  pwd -L
+   90  pwd -P
+   91  pwd -logical
+   92  pwd -physical
+   93  cd ~
+   94  ls
+   95  ls -R
+   96  ls -a
+   97  ls -lh
+   98  mkdir main.c
+   99  cd /
+  100  mkdir r
+  101  cd home/
+  102  mkdir r
+  103  cd ~
+  104  mkdir r
+  105  rmdir -p r
+  106  rmdir -p reham
+  107  cd /home/
+  108  mkdir -m777 r
+  109  mkdir -m r
+  110  mkdir --help
+  111  ./eclipse
+  112  man ls
+  113  cd /etc
+  114  ls
+  115  man ls
+  116  man cat
+  117  man cd
+  118  cd --help
+  119  help cd
+  120  man 1 intro
+  121  man 2 intro
+  122  man 9 intro
+  123  man 8 intro
+  124  clear
+  125  LS
+  126  man LS
+  127  man -I LS
+  128  man -i LS
+  129  man LS
+  130  man -f ls
+  131  man -f pwd
+  132  man -f passwod
+  133  man -f password
+  134  man -f passwd
+  135  history
+  136  history >> rehamTXT
+  137  sudo history >> rehamTXT
+  138  cd ~
+  139  history >> rehamTXT
+  140  gedit rehamTXT
+  141  man -k pass
+  142  man -k pass | grep sw
+  143  uptime
+  144  lsusb
+  145  lspci
+  146  lscpu
+  147  man -k gpu 
+  148  man -k GPU
+  149  amdgpu
+  150  man amdgpu
+  151  lsmod
+  152  q
+  153  clear
+  154  env
+  155  printenv
+  156  printenv | grep PATH
+  157  export
+  158  terminator install
+  159  sudo apt install terminator
+  160  echo $x
+  161  exit
+  162  export x=100
+  163  echo $x
+  164  sudo apt install terminator
+  165  gedit reham&
+  166  bash
+  167  exit
+  168  vim reham
+  169  vim rehamTXT
+  170  vim all
+  171  vim reham
+  172  sudo apt install vim 
+  173  vim rehamTXT
+  174  exit
+  175  bash
+  176  terminator
+  177  exit
+  178  exit
+  179  exit
+  180  uname 
+  181  uname -n
+  182  uname -r
+  183  uname -a
+  184  ls -l
+  185  nano reham_iti
+  186  gedit reham_iti
+  187  cat reham_iti >> f2
+  188  gedit f2
+  189  cat reham_iti > f2
+  190  gedit f2
+  191  gedit reham_iti
+  192  cat reham_iti
+  193  cat -n reham_iti
+  194  cat -s reham_iti
+  195  cat -E reham_iti
+  196  man cat
+  197  grep -d reham_iti
+  198  grep l reham_iti
+  199  grep ITI reham_iti
+  200  grep -n ITI reham_iti
+  201  grep -n ll reham_iti
+  202  grep -v ITI reham_iti
+  203  grep -v I reham_iti
+  204  grep -c ITI reham_iti
+  205  grep -c I reham_iti
+  206  grep -c l reham_iti
+  207  grep -c ll reham_iti
+  208  cd /etc/
+  209  cat passwd
+  210  cut d:f1
+  211  cut d:f1 passwd
+  212  cut d: -f1 passwd
+  213  cut - d: -f1 passwd
+  214  cut -d: -f1 passwd
+  215  cut -d: -f2 passwd
+  216  cut -d: -f1 passwd
+  217  cut -d: -f1 passwd | grep n
+  218  ls cpu
+  219  ls CPU
+  220  mkdir LAB3
+  221  cd LAB3
+  222  mkdir F1 F2
+  223  touch file1.txt
+  224  tree
+  225  sudo apt  install tree
+  226  tree
+  227  cp file1.txt F1
+  228  tree
+  229  cp file1.txt F2
+  230  cp -r F2 F1
+  231  tree
+  232  mv F1 F2
+  233  tree
+  234  cd /
+  235  tree
+  236  tree -L 1
+  237  tree -L 2
+  238  tree -L 3
+  239  tree -L 1
+  240  tree -L 2
+  241  tree -L 3
+  242  cd ~
+  243  cd LAB3/
+  244  mkdir -p F/f1/f2/f3/f4/
+  245  tree
+  246  mkdir -p F3/{f1,f2,f3,f4}
+  247  tree
+  248  rm -rv F3
+  249  rm -ri F2
+  250  tree
+  251  rm -ri F
+  252  tree
+  253  vim f1
+  254  cd ~
+  255  tail x.txt
+  256  vim f1
+  257  tail f1
+  258  more f1
+  259  head -n f1
+  260  more -n f1
+  261  ls
+  262  cd LAB3/
+  263  more f1
+  264  ls
+  265  more file1
+  266  more file1.txt
+  267  vim file1.txt
+  268  more -n 3 file1.txt
+  269  tail -n 3 file1.txt
+  270  tail -3 file1.txt
+  271  tail -2 file1.txt
+  272  head -2 file1.txt
+  273  less -n 3 file1.txt
+  274  more file1.txt
+  275  less file1.txt
+  276  man head
+  277  ls -li
+  278  rm -r f1
+  279  rm -r F
+  280  rm -r F2
+  281  rm -r file1.txt
+  282  tree
+  283  ls
+  284  touch file1.txt
+  285  touch file2.txt
+  286  vim file1.txt
+  287  rm -r file1.txt
+  288  rm -r file2.txt
+  289  touch hussen_hardlink.txt
+  290  touch mansour_src.txt
+  291  ls
+  292  gedit mansour_src.txt
+  293  gedit mansour_src.txt&
+  294  ln mansour_src.txt hussen_hardlink.txt 
+  295  ls
+  296  rm  hussen_hardlink.txt 
+  297  ln mansour_src.txt hussen_hardlink.txt 
+  298  ls -li
+  299  cat hussen_hardlink.txt
+  300  gedit hussen_hardlink.txt
+  301  rm mansour_src.txt
+  302  ls
+  303  touch mansour_src.txt
+  304  ls
+  305  rm mansour_src.txt
+  306  touch mansour_softlink.txt
+  307  ls
+  308  cat mansour_softlink.txt
+  309  ln -s mansour_src.txt hussen_shadwo.txt 
+  310  ls -li
+  311  ls
+  312  ln -s mansour_softlink.txt hussen_shadwo.txt 
+  313  ln -s mansour_softlink.txt hussen_shadwoo.txt 
+  314  ls -li
+  315  gedit mansour_softlink.txt &
+  316  cat hussen_shadwoo.txt
+  317  rm mansour_softlink.txt
+  318  cat hussen_shadwoo.txt
+  319  ls -li
+  320  touch mansour_softlink.txt
+  321  ls -li
+  322  rm mansour_src.txt
+  323  rm hussen_hardlink.txt
+  324  ls -li
+  325  ls
+  326  rm hussen_shadwo.txt 
+  327  ls
+  328  ls -li
+  329  gedit mansour_softlink.txt
+  330  cat hussen_shadwoo.txt
+  331  unlink mansour_softlink.txt
+  332  ls -li
+  333  ls -l
+  334  ls
+  335  rm hussen_shadwoo.txt
+  336  ls
+  337  touch f1
+  338  ls -li
+  339  chmod u+x f1
+  340  ls -l
+  341  chmod g-w f1
+  342  ls -l
+  343  chmod g-r f1
+  344  ls -l
+  345  chmod o-r
+  346  chmod o-r f1
+  347  ls -l
+  348  chmod u-x f1
+  349  ls -l
+  350  chmod u-w f1
+  351  chmod u-r f1
+  352  ls -l
+  353  chmod uog+rwx f1
+  354  ls -l
+  355  chmod 707 f1
+  356  ls -l
+  357  sudo adduser ree
+  358  su rehamma
+  359  cd ~
+  360  su rehamma
+  361  cd home/
+  362  cd /home
+  363  ls
+  364  su ree
+  365  rm -r ree
+  366  sudo rm -rf ree
+  367  sudo ls
+  368  ls
+  369  su ree
+  370  sudo del ree
+  371  sudo deluser ree
+  372  sudo ls
+  373  su ree
+  374  sudo ls
+  375  su ree
+  376  sudo usermod -aG sudo ree
+  377  su ree
+  378  ls
+  379  groups
+  380  su ree
+  381  rm -r /
+  382  rm -r / 2>errorfile
+  383  cat errorfile
+  384  rm -r / 1>errorfile
+  385  cat errorfile
+  386  cd /dev/null
+  387  cat /dev/null
+  388  grep -r power/sys
+  389  grep -r power /sys/ 1> /dev/null
+  390  cat /dev/null
+  391  sudo cd /dev/null
+  392  grep -r power /sys/ 1> /dev/null
+  393  grep -r power /sys/ 1> errorfile
+  394  cat errorfile
+  395  grep -r power /sys/ 1> /dev/null
+  396  mkdir lab
+  397  cd lab
+  398  touch 1y 2y 3y 4y
+  399  ls
+  400  ls -l *y
+  401  cd ~
+  402  ls
+  403  cd LAB3
+  404  ls
+  405  touch 1f 2f 3f 4f 5f f88 88f
+  406  ls
+  407  rm -r *f
+  408  ls
+  409  rm -r *f*
+  410  ls
+  411  cd ~
+  412  cd lab
+  413  ls
+  414  ls -l *y
+  415  cd ~
+  416  cd LAB3
+  417  touch F1
+  418  touch a
+  419  touch b
+  420  touch c
+  421  touch d
+  422  touch e
+  423  touch f
+  424  touch G
+  425  touch H
+  426  touch I
+  427  rm [a-z]
+  428  ls
+  429  rm [A-Z]
+  430  ls
+  431  rm *
+  432  ls
+  433  history
+  434  history >> linux_commands
+  435  ls
+  436  gedit linux_commands
+  437  ls
+  438  cd LAB3/
+  439  ls
+  440  mail --version
+  441  sudo apt install mailutils
+  442  mail --version
+  443  nano /etc/ssmtp/ssmtp.conf
+  444  sudo nano /etc/ssmtp/ssmtp.conf
+  445  ls
+  446  mail -s "history" -A linux_commands rehamma@gmail.com
+  447  mail -s "history" -A linux_commands rehamma215@gmail.com
+  448  mail -s "test"
+  449  mail -s "test1"
+  450  sudo su
+  451  sudo nano /etc/ssmtp/ssmtp.conf
+  452  mail -s "test"
+  453  mail --version
+  454  cd etc/
+  455  cd /etc
+  456  ls
+  457  cd ..
+  458  cd ~
+  459  sudo apt-get install mail
+  460  sudo apt-get install mailutils
+  461  sudo nano /etc/ssmtp/ssmtp.conf
+  462  cd /etc
+  463  ls
+  464  cd passwd
+  465  sudo cd passwd
+  466  gedit passwd
+  467  gedit passwd-
+  468  echo $v1
+  469  exit
+  470  echo $v
+  471  exit
+  472  sudo apt-get install ssmtp
+  473  sudo nano /etc/ssmtp/ssmtp.conf
+  474  cd LAB3/
+  475  ls
+  476  mail -s "History" -A linux_commands rehamma215@gmail.com
+  477  this is body
+  478  mail -s "History" -A linux_commands rehamma215@gmail.com
+  479  gedit linux_commands
+  480  mail -s "History" -A linux_commands rehammohamed2155@gmail.com
+  481  mail -s "History" -A linux_commands.txt rehammohamed2155@gmail.com
+  482  linux_commands>>linux_commands.txt
+  483  gedit linux_commands
+  484  cat linux_commands >> linux_commands.txt
+  485  ls
+  486  mail -s "History" -A linux_commands.txt rehamma215@gmail.com
+  487  mail -s "history"
+  488  mail -s "History" -A linux_commands.txt rehamma215@gmail.com
+  489  nano /etc/ssmtp/ssmtp.conf
+  490  sudo nano /etc/ssmtp/ssmtp.conf
+  491  mail -s "History" -A linux_commands.txt rehamma215@gmail.com
+  492  sudo nano /etc/ssmtp/ssmtp.conf
+  493  cd ~
+  494  ls /bin/ | grep ash
+  495  var1=status
+  496  echo $var1
+  497  echo var1
+  498  echo $PWD
+  499  echo $HOME
+  500  echo $SHELL
+  501  env
+  502  gedit .bashrc
+  503  mkdir shell_scripting
+  504  cd shell_scripting
+  505  cd ..
+  506  cd Desktop
+  507  mkdir shell_scripting
+  508  cd shell_scripting
+  509  touch lab1
+  510  gedit lab1 &
+  511  ls
+  512  ./lab1
+  513  ls -l
+  514  chmod 777 lab1
+  515  ls
+  516  ./lab1
+  517  touch f1
+  518  touch f11
+  519  touch f111
+  520  ./lab1
+  521  touch fi.txt
+  522  ./lab1
+  523  export MYVAR=100
+  524  ./lab1
+  525  v1=100
+  526  echo $v.
+  527  echo $v1
+  528  bash
+  529  export v=400
+  530  echo $v
+  531  bash
+  532  export MYVAR=100
+  533  export MYVAR=100000
+  534  ./lab1
+  535  read -p "Enter username" var
+  536  read -p "Enter password: " var
+  537  echo $var
+  538  read -p "Enter username: " var
+  539  echo $var
+  540  ./lab1
+  541  gedit dio_int.h 
+  542  ./lab1
+  543  gedit adc_int.h
+  544  ./lab1
+  545  gedit timer_int.h
+  546  gedit timer_private.h
+  547  ./lab1
+  548  gedit lcd_int.h
+  549  ./lab1
+  550  gedit interrupt_int.h
+  551  ./lab1
+  552  gedit uart_int.h
+  553  ./lab1
+  554  xdg-open --version
+  555  xdg-open https://www.geeksforgeeks.org/xdg-open-command-in-linux-with-examples
+  556  xdg-open {https://www.geeksforgeeks.org/xdg-open-command-in-linux-with-examples}
+  557  xdg-open "https://www.geeksforgeeks.org/xdg-open-command-in-linux-with-examples"
+  558  ./lab1
+  559  touch lab2
+  560  ls
+  561  gedit lab2 &
+  562  ./lab2
+  563  chmod 777 lab2
+  564  ./lab2
+  565  ./lab2 10 20 30
+  566  ./lab2
+  567  rm -r adc_int.h
+  568  rm -r f1
+  569  rm -r f11
+  570  rm -r f111
+  571  rm -r i2c_int.h
+  572  rm -r dio_int.h
+  573  rm -r timer_int.h
+  574  rm -r spi_int.h
+  575  ls
+  576  rm -r [200~adc_cfg.c      fi.txt           interrupt_private.h  lcd_private.h  timer_private.h
+  577  ls
+  578  rm -r adc_cfg.c      fi.txt           interrupt_private.h  lcd_private.h  timer_private.h
+  579  ls
+  580  rm -r adc_private.h  i2c_cfg.c        interrupt_src.c  lcd_src.c      timer_src.c
+  581  rm -r adc_src.c      i2c_private.h spi_cfg.c 
+  582  rm -r dio_cfg.c      i2c_src.c spi_private.h 
+  583  ls
+  584  rm -r
+  585  rm -r dio_private.h  interrupt_cfg.c dio_src.c      interrupt_int.h
+  586  ls
+  587  rm -r lcd_cfg.c  spi_src.c 
+  588  rm -r lcd_int.h  timer_cfg.c 
+  589  ls
+  590  ./lab2
+  591  sudo apt install vlc
+  592  mkdir song
+  593  cd song/
+  594  ls
+  595  touch project_song
+  596  gedit project_song &
+  597  ls
+  598  chmod 777 project_song
+  599  ./project_song
+  600  history >> history_file
