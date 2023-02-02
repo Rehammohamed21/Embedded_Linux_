@@ -48,7 +48,7 @@ def upper_arrow(n):
     print()
 
 def left_arrow(n):
-	for r in range(0,n*3):				 #print vertical space before printing arrow
+	for r in range(0,n):				 #print vertical space before printing arrow
 		print("\n")
 	
 	for r in range (0,n-1):
